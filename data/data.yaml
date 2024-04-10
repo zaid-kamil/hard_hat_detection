@@ -1,0 +1,15 @@
+names:
+- Hardhat
+- Mask
+- NO-Hardhat
+- NO-Mask
+- NO-Safety Vest
+- Person
+- Safety Cone
+- Safety Vest
+- machinery
+- vehicle
+nc: 10
+test: E:\hard_hat_detection\archive (4)\css-data\test
+train: E:\hard_hat_detection\archive (4)\css-data\train
+val: E:\hard_hat_detection\archive (4)\css-data\valid
